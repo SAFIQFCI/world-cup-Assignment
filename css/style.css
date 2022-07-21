@@ -6,6 +6,7 @@
 /* body style */
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(221, 233, 240);
 }
 
 /*---------------
@@ -131,6 +132,7 @@ main-dive style
 }
 
 .player-div{
+    background-color: #fff;
     border: 1px solid rgba(0, 0, 0, 0.281);
     border-radius:14px
 }
